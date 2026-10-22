@@ -1,4 +1,4 @@
-# udpserver.py
+# udpping_server.py
 from socket import *
 import random
 lossRate = 0.2
